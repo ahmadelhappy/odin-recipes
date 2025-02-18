@@ -1,0 +1,18 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.recipe-title {
+  font-size: 20px;
+  color: brown;
+}
+
+
+
+.link-img {
+  width: 400px;
+}
+
+h1, h2 {
+  background-color: blanchedalmond;
+}
